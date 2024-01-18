@@ -1,4 +1,4 @@
-Google Sheets Scheduling and Automail ProgramGoogle Sheets Scheduling and Automail Program
+Google Sheets Scheduling and Automail Program
 This script is designed to streamline the communication process for a music team, providing details about the upcoming large group worship event, including the music lineup, team member roles, and songs for the current week.
 
 Here's a breakdown of the key functionalities:
